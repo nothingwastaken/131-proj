@@ -11,9 +11,21 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px;
 }
 
 canvas{
     box-shadow: 10px 10px 10px grey;
     border-radius: 10px;
+}
+
+button{
+    font-size: large;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+ #one{
+    margin-top: 100px;
 }
