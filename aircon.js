@@ -3,7 +3,7 @@ object = [];
 
 
 function preload(){
-    img = loadImage("1.jpg")
+    img = loadImage("3.jpg")
 }
 
 function setup(){
